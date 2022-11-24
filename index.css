@@ -146,6 +146,7 @@ body .content6 {
   display: flex;
   border-radius: 20px;
   margin-top: 10vh;
+  margin-bottom: 10vh;
 }
 body .content6 .text {
   text-align: left;
